@@ -8,7 +8,7 @@ Mountain Hydrology, Institute of Arctic and Alpine Research
 
 Student of snow, glaciers, and the communities who reside in mountains
 
-![Fog rolling in over the Storm Range above the Vaughan Lewis Glacier in Juneau, Alaska] (/img/spencer000023-R1-021-9.jpeg) 
+![Fog rolling in over the Storm Range above the Vaughan Lewis Glacier in Juneau, Alaska] (img/spencer000023-R1-021-9.jpeg) 
 
 ## Contact Me
 
