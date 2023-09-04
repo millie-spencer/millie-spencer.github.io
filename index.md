@@ -16,6 +16,6 @@ Email - millie.spencer@colorado.edu
 
 <a href="https://milliecspencer.weebly.com/">Visit my website</a>
 
-<a href="www.linkedin.com/in/millie-spencer-593822143/">LinkedIn</a>
+<a href="www.linkedin.com/in/millie-spencer-593822143">LinkedIn</a>
 
 <a href="https://www.instagram.com/millie.c.spencer/">Instagram</a>
