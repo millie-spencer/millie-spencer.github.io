@@ -14,8 +14,8 @@ Student of snow, glaciers, and the communities who reside in mountains
 
 Email - millie.spencer@colorado.edu
 
-<a href="https://milliecspencer.weebly.com/">Website!</a>
+<a href="https://milliecspencer.weebly.com/">Visit my website</a>
 
-LinkedIn - www.linkedin.com/in/millie-spencer-593822143
+<a href="www.linkedin.com/in/millie-spencer-593822143/">LinkedIn</a>
 
-Instagram - @millie.c.spencer
+<a href="https://www.instagram.com/millie.c.spencer/">Instagram</a>
