@@ -10,10 +10,6 @@ Student of snow, glaciers, and the communities who reside in mountains
 
 ####how to add photo?? 
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 ## Contact Me
 
 millie.spencer@colorado.edu
