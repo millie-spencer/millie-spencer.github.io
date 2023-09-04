@@ -1,5 +1,6 @@
 title: Millie Spencer's GitHub Portfolio
 description: A repository of my codes
+logo: img/004F57AB-6DE8-44F3-98C4-961527FA7D57.jpeg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
