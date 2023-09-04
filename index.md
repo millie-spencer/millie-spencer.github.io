@@ -12,7 +12,9 @@ Student of snow, glaciers, and the communities who reside in mountains
 
 ## Contact Me
 
-millie.spencer@colorado.edu
+Email - millie.spencer@colorado.edu
+
+Website - https://milliecspencer.weebly.com/
 
 LinkedIn - www.linkedin.com/in/millie-spencer-593822143
 
