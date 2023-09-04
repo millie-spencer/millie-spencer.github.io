@@ -1,4 +1,4 @@
-# Millie Spencer's Earth Data Science Portfolio 
+# Millie Spencer's Portfolio Home Page
 
 Millie Spencer 
 
