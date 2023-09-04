@@ -10,7 +10,7 @@ Student of snow, glaciers, and the communities who reside in mountains
 
 ####how to add photo?? 
 
-##Contact Me
+## Contact Me
 
 millie.spencer@colorado.edu
 
