@@ -15,3 +15,7 @@ millie.spencer@colorado.edu
 LinkedIn - www.linkedin.com/in/millie-spencer-593822143
 
 Instagram - @millie.c.spencer
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
