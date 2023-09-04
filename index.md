@@ -1,10 +1,14 @@
 # A fabulous Earth Data Science Portfolio - MS
 
+Millie Spencer 
+
 PhD student at the University of Colorado, Boulder 
 
 Mountain Hydrology, Institute of Arctic and Alpine Research 
 
 Student of snow, glaciers, and the communities who reside in mountains
+
+####how to add photo?? 
 
 millie.spencer@colorado.edu
 
