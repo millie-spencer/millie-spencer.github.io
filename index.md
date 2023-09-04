@@ -1,4 +1,4 @@
-# A fabulous Earth Data Science Portfolio - MS
+# Millie Spencer's Earth Data Science Portfolio 
 
 Millie Spencer 
 
