@@ -8,8 +8,6 @@ Mountain Hydrology, Institute of Arctic and Alpine Research
 
 Student of snow, glaciers, and the communities who reside in mountains
 
-####how to add photo?? 
-
 ## Contact Me
 
 Email - millie.spencer@colorado.edu
