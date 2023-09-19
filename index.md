@@ -15,7 +15,7 @@ Student of snow, glaciers, and the communities who reside in mountains
 
 <a href="file:///Users/milliespencer/Downloads/wind-river-time-series.html">Wind River Streamflow Analysis</a>
 
-<a href="/workspaces/time-series-data-millie-spencer/wind-river-time-series.html">Wind River Streamflow Analysis</a>
+<a href="/workspaces/time-series-data-millie-spencer/wind-river-time-series.html">Different River Streamflow Analysis</a>
 
 
 ## Contact Me
