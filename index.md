@@ -15,7 +15,7 @@ Student of snow, glaciers, and the communities who reside in mountains
 
 [Roanoke, VA Temperature Analysis](https://github.com/earthlab-education/reproducible-science-millie-spencer/blob/main/avg-temp-va-ncei.html)
 
-[Wind River Streamflow Analysis] (https://github.com/earthlab-education/time-series-data-millie-spencer/blob/main/wind-river-time-series.html)
+[Wind River Streamflow Analysis](https://github.com/earthlab-education/time-series-data-millie-spencer/blob/main/wind-river-time-series.html)
 
 
 
