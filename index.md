@@ -10,15 +10,13 @@ Student of snow, glaciers, and the communities who reside in mountains
 
 <img src="/img/spencer000023-R1-021-9.jpeg" alt="Fog rolling in over the Storm Range above the Vaughan Lewis Glacier in Juneau, Alaska">
 
+
 ## Projects 
 
 [Roanoke, VA Temperature Analysis](https://github.com/earthlab-education/reproducible-science-millie-spencer/blob/main/avg-temp-va-ncei.html)
 
-<a href="file:///Users/milliespencer/Downloads/avg-temp-va-ncei%20(11).html">Roanoke, VA Temperature Analysis</a>
+[Wind River Streamflow Analysis] (https://github.com/earthlab-education/time-series-data-millie-spencer/blob/main/wind-river-time-series.html)
 
-<a href="file:///Users/milliespencer/Downloads/wind-river-time-series.html">Wind River Streamflow Analysis</a>
-
-<a href="/workspaces/time-series-data-millie-spencer/wind-river-time-series.html">Different River Streamflow Analysis</a>
 
 
 ## Contact Me
