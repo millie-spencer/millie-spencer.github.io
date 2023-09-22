@@ -13,7 +13,7 @@ Student of snow, glaciers, and the communities who reside in mountains
 
 ## Projects 
 
-[Roanoke, VA Temperature Analysis](https://github.com/millie-spencer/millie-spencer.github.io/blob/main/notebooks/avg-temp-va-ncei.html)
+[Roanoke, VA Temperature Analysis](https://millie-spencer.github.io/notebooks/avg-temp-va-ncei.html)
 
 
 [Wind River Streamflow Analysis](https://github.com/earthlab-education/time-series-data-millie-spencer/blob/main/wind-river-time-series.html)
