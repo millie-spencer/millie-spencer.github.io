@@ -18,7 +18,7 @@ Student of snow, glaciers, and the communities who reside in mountains
 
 [Wind River Streamflow Analysis](https://millie-spencer.github.io/notebooks/wind-river-usgs-time-series.html)
 
-[2016 Cold Springs Fire NDVI Analysis](https://millie-spencer.github.io/notebooks/coldsprings-fire-modis-ndvi.html)
+[Cold Springs Fire NDVI Analysis](https://millie-spencer.github.io/notebooks/coldsprings-fire-modis-ndvi.html)
 
 
 ## Contact Me
