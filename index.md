@@ -2,7 +2,7 @@
 
 Millie Spencer 
 
-PhD student at the University of Colorado, Boulder 
+PhD candidate at the University of Colorado, Boulder 
 
 Mountain Hydrology, Institute of Arctic and Alpine Research 
 
